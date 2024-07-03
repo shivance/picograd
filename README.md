@@ -13,4 +13,4 @@ cargo run --example sgd
 
 It'll look something like:
 
-![sgd_run][./res/sgd_run.png]
+![sgd_run](./res/sgd_run.png)
